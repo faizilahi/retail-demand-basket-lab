@@ -1,0 +1,11 @@
+sku_id,sku_name,category,unit_price
+SKU01,Milk 1L,Dairy,3.49
+SKU02,Bread,Bakery,2.99
+SKU03,Eggs 12pk,Dairy,4.29
+SKU04,Coffee,Beverage,8.99
+SKU05,Butter,Dairy,5.49
+SKU06,Bananas,Produce,1.99
+SKU07,Cereal,Grocery,4.99
+SKU08,Orange Juice,Beverage,3.79
+SKU09,Yogurt,Dairy,1.29
+SKU10,Chips,Snacks,3.59
